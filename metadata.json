@@ -1,0 +1,7 @@
+{
+  "name": "LMEN SPORTS - Loja de Artigos Esportivos",
+  "description": "Loja virtual esportiva oficial LMEN SPORTS. Chuteiras, camisas de time, tênis, roupas esportivas, moda lifestyle e acessórios esportivos com alta performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <!-- Solid true black background matching uploaded image -->
+  <rect width="1000" height="1000" fill="#000000"/>
+
+  <!-- Centered soccer player silhouette in grey (#5E656E) -->
+  <g fill="#5E656E">
+    <!-- Head in side/3-quarter angle tilted slightly forward -->
+    <path d="M 538 164 C 555 164, 571 176, 573 197 C 574 212, 570 231, 563 247 C 554 254, 545 256, 535 256 C 522 256, 514 250, 509 238 C 504 220, 507 197, 513 182 C 520 169, 528 164, 538 164 Z"/>
+    
+    <!-- Neck -->
+    <path d="M 518 244 L 546 244 L 548 266 L 515 266 Z"/>
+
+    <!-- Left arm raised backwards / upwards for balance -->
+    <path d="M 498 274 C 452 296, 384 330, 328 352 C 314 358, 301 372, 303 388 C 305 401, 318 406, 331 401 C 342 396, 355 385, 372 371 C 418 344, 460 318, 499 292 Z"/>
+
+    <!-- Right arm extending backwards / rightward -->
+    <path d="M 574 278 C 636 303, 712 318, 743 290 C 762 272, 750 258, 718 270 C 665 288, 606 280, 568 266 Z"/>
+
+    <!-- Main torso, kicking leg and planted leg -->
+    <path d="M 505 262 C 472 284, 456 304, 467 328 C 484 372, 510 416, 532 460 L 498 518 C 442 590, 374 650, 316 678 C 296 688, 304 716, 324 714 C 366 710, 430 662, 486 604 C 516 572, 546 536, 564 504 L 578 562 C 582 642, 572 730, 554 812 C 548 838, 540 864, 542 892 C 544 914, 576 928, 594 914 C 612 894, 608 862, 610 832 C 622 744, 626 658, 610 570 L 608 464 C 616 396, 606 332, 578 280 C 560 250, 528 240, 505 262 Z"/>
+  </g>
+
+  <!-- Soccer ball positioned in mid-air -->
+  <circle cx="426" cy="578" r="46" fill="#5E656E"/>
+
+  <!-- Rectangular white boundary frame -->
+  <rect x="96" y="428" width="820" height="138" stroke="#FFFFFF" stroke-width="16" fill="none"/>
+
+  <!-- Text inside frame: LMEN - SPORTS in crisp white solid heavy sans-serif -->
+  <text x="506" y="528" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Montserrat', 'Arial Black', Arial, sans-serif" font-weight="900" font-size="94" letter-spacing="4" text-anchor="middle">LMEN - SPORTS</text>
+</svg>
